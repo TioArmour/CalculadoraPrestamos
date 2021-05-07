@@ -1,0 +1,42 @@
+viernes, 7 de mayo de 2021
+Monto Prestamo: 10000 Bs.
+Interes Préstamo: 15 Bs.
+Tiempo Préstamo: 12d meses
+Tipo Préstamo: Personal
+Cuota Mensual:  Bs.
+Interes a Pagar:  Bs.
+viernes, 7 de mayo de 2021
+Monto Prestamo: 10000 Bs.
+Interes Préstamo: 15 Bs.
+Tiempo Préstamo: 12 meses
+Tipo Préstamo: Personal
+Cuota Mensual: 902,58 Bs.
+Interes a Pagar: 830,96 Bs.
+viernes, 7 de mayo de 2021
+Monto Prestamo: 12222 Bs.
+Interes Préstamo: 15 Bs.
+Tiempo Préstamo: 12 meses
+Tipo Préstamo: Personal
+Cuota Mensual: 1103,14 Bs.
+Interes a Pagar: 1015,68 Bs.
+viernes, 7 de mayo de 2021
+Monto Prestamo: 12000 Bs.
+Interes Préstamo: 14 Bs.
+Tiempo Préstamo: 12 meses
+Tipo Préstamo: 
+Cuota Mensual: 1077,45 Bs.
+Interes a Pagar: 929,4 Bs.
+viernes, 7 de mayo de 2021
+Monto Prestamo: 12000 Bs.
+Interes Préstamo: 14 Bs.
+Tiempo Préstamo: 12 meses
+Tipo Préstamo: Personal
+Cuota Mensual: 1077,45 Bs.
+Interes a Pagar: 929,4 Bs.
+viernes, 7 de mayo de 2021
+Monto Prestamo: 12 Bs.
+Interes Préstamo: 12 Bs.
+Tiempo Préstamo: 12 meses
+Tipo Préstamo: Personal
+Cuota Mensual: 1,07 Bs.
+Interes a Pagar: 0,84 Bs.
