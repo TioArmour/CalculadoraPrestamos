@@ -1,0 +1,1 @@
+La formula que nos proporcionaba la pagina web solo sirve para el calculo de los interes cuando el tiempo del prestamo es 12 meses, para un tiempo mayor a 12 o menor a 12 meses los calculos de los interes fallaban y se debia ocupar otra formula que no se especifica para que el calculo sea de la manera correcta
